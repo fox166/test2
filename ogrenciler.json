@@ -1,0 +1,39 @@
+{
+	"ogrenciler":	[
+		{
+			"ogrenci_id":	"1",
+			"ogrenci_adsoyad":	"Şerif GÜNGÖR",
+			"ogrenci_telefon_no":	"05362958509",
+			"ogrenci_bolum":	"Bilgisayar Programcılığı",
+			"ogrenci_universite":	"İstanbul Ticaret Üniversitesi"			
+		},
+		{
+			"ogrenci_id":	"2",
+			"ogrenci_adsoyad":	"Serkan HOCAOĞLU",
+			"ogrenci_telefon_no":	"02123336699",
+			"ogrenci_bolum":	"Elektronik Mühendisliği",
+			"ogrenci_universite":	"Ankara Üniversitesi"			
+		},
+		{
+			"ogrenci_id":	"3",
+			"ogrenci_adsoyad":	"Burak KAYA",
+			"ogrenci_telefon_no":	"02124443322",
+			"ogrenci_bolum":	"Elektrik/Elektronik",
+			"ogrenci_universite":	"-"	
+		},
+		{
+			"ogrenci_id":	"4"
+			"ogrenci_adsoyad":	"Celal SEVİNDİ",
+			"ogrenci_telefon_no":	"02123332211",
+			"ogrenci_bolum":	"Bilgisayar Programcılığı",
+			"ogrenci_universite":	"Nişantaşı Üniversitesi"			
+		},
+		{
+			"ogrenci_id":	"5",
+			"ogrenci_adsoyad":	"Şevin ÇELİK",
+			"ogrenci_telefon_no":	"02125554433",
+			"ogrenci_bolum":	"Bilgisayar Mühendisliği",
+			"ogrenci_universite":	"İstanbul Üniversitesi"			
+		}		
+	]
+}	
